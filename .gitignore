@@ -47,7 +47,8 @@ wjeunit
 
 # Visual Studio specific files
 .vs
-Win32/
+Debug/
+Release/
 ipch/
 *.suo
 *.sdf
