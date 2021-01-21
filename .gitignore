@@ -36,7 +36,6 @@ wjeunit
 *.lai
 *.la
 *.a
-*.lib
 
 # Executables
 *.exe
@@ -47,11 +46,11 @@ wjeunit
 *.log
 
 # Visual Studio specific files
+.vs
 Win32/
-x64/
 ipch/
 *.suo
 *.sdf
 *.user
 *.tlog
-
+Intermediate
